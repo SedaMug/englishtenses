@@ -1,0 +1,360 @@
+** start of index.html **
+
+<!DOCTYPE html>
+  <html lang="en">
+  <head>
+    <title>English tenses</title>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link href="styles.css" rel="stylesheet"/>
+  </head>
+  <body>
+      <header>
+        <h1>ENGLISH TENSES</h1>
+        <nav id="navbar">
+          <header class="navigation-header">Navigation</header>
+          <ul>
+            <li> 
+              <a class="nav-link" href="#Why_we_should_know_tenses">
+                Why we should  know tenses
+              </a>
+            </li>
+            <li> 
+              <a class="nav-link" href="#Present_Simple">
+                Present Simple
+              </a>
+            </li>
+            <li> 
+              <a class="nav-link" href="#Present_Continuous">
+                Present Continuous
+              </a>
+            </li>
+            <li> 
+              <a class="nav-link" href="#Past_Simple">
+                Past Simple
+              </a>
+            </li>
+            <li> 
+             <a class="nav-link" href="#Past_Continuous">
+               Past Continuous
+             </a>  
+            </li>
+            <li> 
+              <a class="nav-link" href="#Present_Perfect">
+                Present Perfect
+              </a>
+            </li>            
+            <li> 
+              <a class="nav-link" href="#Present_Perfect_Continuous">
+                Present Perfect Continuous
+              </a>
+            </li>
+            <li> 
+              <a class="nav-link" href="#Past_Perfect">
+                Past Perfect
+              </a>
+            </li>
+            <li> 
+             <a class="nav-link" href="#Past_Perfect_Continuous">
+               Past Perfect Continuous
+              </a>
+            </li>
+            <li> 
+              <a class="nav-link" href="#Future_Simple">
+                Future Simple
+              </a>
+            </li>
+            <li> 
+              <a class="nav-link" href="#Future_Continuous">
+                Future Continuous
+              </a>
+            </li>
+            <li> 
+             <a class="nav-link" href="#Future_Perfect">
+               Future Perfect
+              </a>
+            </li>
+            <li> 
+              <a class="nav-link" href="#Future_Perfect_Continuous">
+                Future Perfect Continuous
+              </a>  
+            </li>
+            <li> 
+              <a class="nav-link" href="#Reference">
+              Reference
+              </a>
+            </li>            
+          </ul>
+        </nav>
+      </header>
+    <main id="main-doc">
+      <section id="Why_we_should_know_tenses" class="main-section" >
+        <header>Why we should  know tenses</header>
+        <p>Понимание английских времен имеет решающее значение для четкого и эффективного общения, потому что они указывают, когда происходит действие (прошлое, настоящее или будущее). Транзакция позволяет вам выражать широкий спектр значений, от простых действий до сложных ситуаций, и помогают вам избежать двусмысленности в своей речи и письме.</p>
+      </section>
+      <section id="Present_Simple" class="main-section" >
+        <header>Present Simple</header>        
+        <p><strong>Когда используется:</strong></p>
+        <ul>
+          <li>Регулярные действия, привычки.</li> 
+          <li>Общие истины и факты.</li>
+        </ul>
+        <code>Пример:I go to work every day;Water boils at 100°C.</code>        
+        <p><strong>Формула:</strong> S + V (he/she/it + V+s).</p>
+        <p><strong>Отличие:</strong> Не указывает на конкретный момент,а говорит о повторяющемся или постоянном.</p> 
+      </section>
+      <section id="Present_Continuous" class="main-section" >
+        <header>Present Continuous</header>
+        
+        <p><strong>Когда используется:</strong></p>
+        <ul>
+          <li>Действие происходит прямо сейчас.</li>
+          <li>Временное действие.</li>
+        </ul>          
+        <code>Пример: She is reading a book now;I am working this week.</code>                 
+        <p><strong>Формула:</strong> S + am/is/are + V-ing.</p>
+        <p><strong>Отличие:</strong> Показывает процесс в момент речи или временный процесс.</p>
+      </section>
+      <section id="Past_Simple" class="main-section" >
+        <header>Past Simple</header>
+        <p><strong>Когда используется:</strong></p>
+        <ul>
+          <li>Завершенное действие в прошлом.</li>
+          <li>Есть указание на конкретное время.</li>          
+        </ul>
+        <code>Пример:I visited Paris last year;He called me yesterday.</code>        
+        <p><strong>Формула:</strong> S + V2/ed.</p>
+         <p><strong>Отличие:</strong> Четко указывает, когда именно произошло действие.</p>
+      </section>
+      <section id="Past_Continuous" class="main-section" >
+        <header>Past Continuous</header>
+        <p><strong>Когда используется:</strong></p>         
+        <ul>
+          <li>Действие длилось в определенный момент в прошлом.</li>
+          <li>Часто вместе c Past Simple (одно действие прервано другим).</li>                       
+        </ul>
+        <code>Пример:I was watching TV when she called.At 7 PM, they were having dinner.</code>      
+        <p><strong>Формула:</strong> S + was/were + V-ing.</p>
+        <p><strong>Отличие:</strong> Показывает длительность действия в прошлом.</p>
+      </section>
+      <section id="Present_Perfect" class="main-section" >
+        <header>Present Perfect</header>
+        <p><strong>Когда используется:</strong></p>
+        <ul>
+          <li>Завершенное действие, важен результат, а не время.</li>
+          <li>Опыт, недавние события.</li>
+        </ul>          
+        <code>Пример:I have seen this movie before.She has just left.</code>
+        <p><strong>Формула:</strong> S + have/has + V3.</p>
+        <p><strong>Отличие:</strong> Нет указания на конкретное время — важно, что уже произошло.</p>
+      </section>
+      <section id="Present_Perfect_Continuous" class="main-section" >
+        <header>Present Perfect Continuous</header>
+        <p><strong>Когда используется:</strong></p>
+        <ul>
+          <li>Действие началось в прошлом и продолжается до сих пор.</li>
+          <li>Упор на длительность.</li>          
+        </ul>
+        <code>Пример:I have been working here for 5 years;They have been studying since morning.</code>       
+          <p><strong>Формула:</strong> S + have/has been + V-ing.</p>
+          <p><strong>Отличие:</strong> Показывает длительность текущего действия, начавшегося в прошлом.</p>
+      </section>
+      <section id="Past_Perfect" class="main-section" >
+        <header>Past Perfect</header>
+        <p><strong>Когда используется:</strong></p>
+        <ul>
+          <li>Действие, которое произошло до другого действия в прошлом.</li>          
+        </ul>
+        <code>Пример:I had finished the report before he arrived.</code>       
+        <p><strong>Формула:</strong> S + had + V3.</p>
+        <p><strong>Отличие:</strong> Подчеркивает, что что-то произошло раньше другого события в прошлом.</p>
+      </section>
+      <section id="Past_Perfect_Continuous" class="main-section" >
+        <header>Past Perfect Continuous</header>
+        <p><strong>Когда используется:</strong></p>
+        <ul>
+            <li>Длительное действие, завершившееся до другого действия в прошлом.</li>          
+        </ul>  
+        <code>Пример:She had been waiting for an hour before the bus came.</code>        
+        <p><strong>Формула:</strong> S + had been + V-ing.</p>
+        <p><strong>Отличие:</strong> Подчеркивает длительность действия до другого момента в прошлом.</p>
+      </section>
+      <section id="Future_Simple" class="main-section" >
+        <header>Future Simple</header>
+        <p><strong>Когда используется:</strong></p>
+        <ul>
+          <li>Простое действие в будущем.</li>
+          <li>Обещания, спонтанные решения.</li>
+        </ul>          
+        <code>Пример:I will call you later;It will rain tomorrow.</code>       
+        <p><strong>Формула:</strong> S + will + V.</p>
+        <p><strong>Отличие:</strong> Простое предсказание или решение на месте.</p>    
+      </section>
+      <section id="Future_Continuous" class="main-section" >
+        <header>Future Continuous</header>
+        <p><strong>Когда используется:</strong></p>
+        <ul>
+          <li>Действие будет в процессе в определенный момент в будущем.</li>          
+        </ul>  
+        <code>Пример:I will be working at 9 AM tomorrow.</code>      
+        <p><strong>Формула:</strong> S + will be + V-ing.</p>
+        <p><strong>Отличие:</strong> Показывает длительность будущего действия в конкретный момент.</p>       
+      </section>
+      <section id="Future_Perfect" class="main-section" >
+        <header>Future Perfect</header>
+        <p><strong>Когда используется:</strong></p>
+        <ul> 
+          <li>Действие завершится до определённого момента в будущем.</li>          
+        </ul>
+        <code>Пример:I will have finished the project by Monday;She will have left before you arrive.</code>       
+        <p><strong>Формула:</strong> S + will have + V3</p>
+         <p><strong>Отличие:</strong> Показывает завершённость будущего действия до другого момента или события в будущем.</p>       
+      </section>
+      <section id="Future_Perfect_Continuous" class="main-section" >
+        <header>Future Perfect Continuous</header>        
+        <p><strong>Когда используется:</strong></p>
+        <ul>
+          <li>Длительное действие, которое будет продолжаться до определённого момента в будущем.</li>
+        </ul>          
+        <code>Пример:By next year, I will have been working here for 10 years;He will have been studying for hours by the time you get home.</code>      
+        <p><strong>Формула:</strong> S + will have been + V-.</p>
+        <p><strong>Отличие:</strong> Упор на длительность действия, которое началось раньше и будет продолжаться до будущего момента.</p>
+      </section>  
+      <section id="Reference" class="main-section" >  
+        <header>Reference</header>
+        <p><strong>Made by Mugueva Seda</strong></p>
+      </section>
+    </main>
+  </body>
+</html>
+
+
+** end of index.html **
+
+** start of styles.css **
+
+*{
+  text-align: start;
+  text-decoration: none;
+  list-style: none;
+}
+
+html, body{
+  background-color: #9caf88;
+  line-height: 1.5;
+}
+ 
+li {
+  margin-left: 2px !important;
+  text-align: start;
+  line-height: 1;
+}
+
+ p, ul, li{
+  font-family: Georgia, Arial;
+  color: #e5e0d8;
+  font-size: 17px;
+  margin: 10px !important;
+}
+
+h1{
+  font-size: 35px !important;
+  font-family: Georgia, Arial;
+  color: #e5e0d8;
+}
+
+header {
+  font-weight: bold;
+  font-size: 30px !important;
+  font-family: Georgia, Arial;
+  color: #e5e0d8;
+}
+
+h1 {
+  margin-left: 320px;
+  text-align: center;
+  color: #43658a;
+
+}
+
+.navigation-header{
+  margin: 20px 70px;
+  font-family: Arial;
+  font-weight: bold;
+}
+
+code {
+  background-color: #9caf88;
+  border-radius: 3px;
+  font-family: courier, monospace;
+  padding: 0 3px;
+  color: #e5e0d8;
+  margin-left: 11px;
+  display: block;
+}
+
+#navbar {
+  position: fixed;
+  min-width: 290px;
+  top: 0px;
+  left: 0px;
+  width: 300px;
+  height: 100%;
+  border-right: solid;
+  border-color: rgba(0, 22, 22, 0.4);
+}
+
+#navbar li {
+  color: #43658a;
+  border-top: 1px solid;
+  list-style: none;
+  position: relative;
+  width: 100%;
+}
+
+#navbar a {
+  display: block;
+  padding: 10px 30px;
+  color: #43658a;
+  cursor: pointer;
+  text-decoration: none;
+}
+
+#navbar ul {
+  height: 88%;
+  padding: 0;
+  overflow: scroll;
+  font-size: 18px !important;
+}
+
+#main-doc {
+  position: relative;
+  margin-left: 310px;
+  padding: 20px;
+  margin-bottom: 110px;
+}
+
+#Reference{
+  text-align: center !important;
+  margin: 220px;
+  color: rgb(247, 149, 165);
+  display: flex;
+}
+
+.main-section ul{
+  line-height: 1.5;
+}
+
+.main-section header{
+  margin-top: 30px;
+}
+
+@media only screen and (max-width: 400px) {
+  #main-doc {
+    margin-left: -10px;
+  }
+
+}
+
+** end of styles.css **
+
